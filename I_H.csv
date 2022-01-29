@@ -1,4 +1,4 @@
-section;G_kg_per_m;h_mm;b_mm;tw_mm;tf_mm;r_mm;hi_mm;d_mm;A_cm2;AL_m;AG_m2_per_t;Iy_cm4;Wel_y_cm3;Wpl_y_cm3;iy_cm;Avz_cm2;Iz_cm4 ;Wel_z_cm3;Wpl_z_cm3; iz_cm;Ss_cm;It_cm4;Iw_1000_cm6
+section;g_kg_per_m;h_mm;b_mm;t_w_mm;t_f_mm;r_mm;h_i_mm;d_mm;A_cm2;A_L_m;A_G_m2_per_t;I_y_cm4;W_el_y_cm3;W_pl_y_cm3;i_y_cm;A_vz_cm2;I_z_cm4 ;W_el_z_cm3;W_pl_z_cm3; i_z_cm;s_s_cm;I_t_cm4;I_w_1E3_cm6
 IPE AA 80;4.9;78.0;46.0;3.2;4.2;5;69.6;59.6;6.3;0.325;65.66;64.09;16.43;18.85;3.1;2.996;6.85;2.978;4.68;1;1.7;0.383;0.092
 IPE A 80;5.0;78.0;46.0;3.3;4.2;5;69.6;59.6;6.4;0.325;64.94;64.37;16.5;18.97;3.1;3.07;6.852;2.979;4.692;1;1.7;0.392;0.092
 IPE 80;6.0;80.0;46.0;3.8;5.2;5;69.6;59.6;7.6;0.328;54.67;80.13;20.03;23.21;3.2;3.577;8.489;3.69;5.817;1;2;0.672;0.117
